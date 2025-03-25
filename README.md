@@ -1,3 +1,4 @@
+
 # Gerenciador de Tarefas com Interface em Tkinter
 Este projeto é um simples gerenciador de tarefas criado em **Python** utilizando a biblioteca **Tkinter** para a interface gráfica. A aplicação permite que o usuário adicione, edite, exclua e marque tarefas como concluídas, tornando a organização e o controle de atividades mais práticos.
 
